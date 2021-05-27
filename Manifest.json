@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Varsity Class Rountine",
+    "version": "1.0",
+  
+    "action": {
+      "default_icon": "img/Science-University-icon16.png",
+      "default_popup": "index.html"
+    },
+    "description": "A plain text description",
+    "icons": {
+      "16": "img/Science-University-icon16.png",
+      "48": "img/Science-University-icon48.png",
+      "128": "img/Science-University-icon128.png"
+    },
+    "permissions": ["activeTab"]
+  }
